@@ -1,0 +1,6 @@
+{
+  "name": "ZAKS QX AI",
+  "description": "AI Market Analysis and Signal System for Binary, Forex, OTC, and Synthetic markets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
